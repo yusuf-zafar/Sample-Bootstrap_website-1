@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+}
+nav{
+    font-size: 1.2rem;
+}
+.gradientrow{
+    background-image: linear-gradient(to right, 
+    rgba(209, 154, 60, 0.767), rgba(208, 32, 32, 0.816)), url('https://img.freepik.com/premium-vector/orange-red-watercolor-gradient-background_403247-72.jpg');
+   background-size:cover;
+}
+#whiteimg{
+background-image: linear-gradient(0deg, 
+    rgba(255, 255, 255, 0.062), rgba(255, 255, 255, 0.44)), url('https://c.pxhere.com/photos/40/ea/chair_desk_interior_minimal_minimalist_room-914758.jpg!d');
+
+background-repeat:no-repeat;
+background-size:cover;
+background-position:center bottom;
+}
+#hello{
+    font-size: 5rem;
+}
+p{
+    font-size: 1.4rem;
+}
+.page{
+    background-color: white;
+}
+a{
+    text-decoration: none;
+    color: magenta ;
+}
+.num{
+    font-size: 5.3rem;
+    color: white;
+    font-weight: 600;
+}
+.icon1{
+margin-left: 23px;
+}
+.icontext{
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+.screen{
+    width: 270px;
+    height: 450px;
+    box-shadow: 5px 30px 30px -5px rgba(136, 122, 122, 0.8), -5px 30px 30px -5px rgba(84, 83, 83, 0.8);
+}
+.footer{
+    background-color: whitesmoke;
+}
